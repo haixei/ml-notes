@@ -9,7 +9,7 @@ The true positive rate is a measure of probability that a positive will be label
 
 
 
- ![Equation](https://i.imgur.com/YMTIvxH.png)
+ ![Equation](https://i.imgur.com/4Nqjx1a.png)
 
 
 
