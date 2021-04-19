@@ -15,9 +15,8 @@ The true positive rate is a measure of probability that a positive will be label
 
 
 
----
 
-### How to interpret the result?
+## How to interpret the result?
 
 It's very simple to understand the result, the better the model the closer AUC gets to 1. If the model has a value around 0.5, it signalises a poor prediction quality, no better than random guesses. When the value gets close to 0, the model guesses 1s as 0s and 0s as 1s, which is the worst case scenario.
 
@@ -25,9 +24,8 @@ It's very simple to understand the result, the better the model the closer AUC g
 
 ![ROC Plot](https://i.imgur.com/tOjgNKF.png)
 
----
 
-### Where ROC curves are useful?
+## Where ROC curves are useful?
 
 Since the ROC curve lets us observe how efficient the model is at classifying at different thresholds, we can use that ability to extract the information about which one of them fits our situation the best. Let's imagine that we took a trip to the forest and want to classify some mushrooms that we picked up as toxic and non-toxic, in this case we want the false positive rate to be even a bit larger. It's better to classify some non toxic shrooms as toxic rather than the other way around. In some other scenarios, we might not want the algorithm to be too aggressive like for example spam classification, if we're not sure if a message should be shown, it's better to do so just in case.
 
