@@ -1,9 +1,9 @@
 # MAE and RMSE
 Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) are two similar metrics commonly used to measure accuracy for continuous variables.
 
----
 
-### The Definitions
+
+## The Definitions
 
 - **MAE** measures the average magnitude of the errors in a set of predictions, without taking their direction into consideration. How it works is that it takes an absolute difference of actual observation and a prediction where all individual differences have the same weight.
 
@@ -21,9 +21,8 @@ Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) are two similar met
 
   
 
----
 
-### Similarities and Differences
+## Similarities and Differences
 
 Both of these formulas express the average model prediction error in units of the variable of interest. Both of them range from 0 to ∞ and do not care about the direction of errors. They are negatively-oriented scores, which means lower values are considered better.
 
