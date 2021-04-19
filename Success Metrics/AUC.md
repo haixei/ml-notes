@@ -23,7 +23,7 @@ It's very simple to understand the result, the better the model the closer AUC g
 
 
 
-![ROC Plot](https://i.imgur.com/F99Ckdf.png)
+![ROC Plot](https://i.imgur.com/tOjgNKF.png)
 
 ---
 
