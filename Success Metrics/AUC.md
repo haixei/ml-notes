@@ -3,7 +3,7 @@ AUC is a success metric used for multi classification problems. It's nothing els
 
 Let's consider a simple binary classification problem. In this case the model's prediction can produce 4 different values:  true positive, false positive, true negative, and false negative. The way we produce a ROC curve is by plotting calculating and plotting TPR against TNR for a single classifier at multiple thresholds. We usually consider that if an observation is predicted as positive at >0.5 probability, it is labelled positive. The curve lets us see how the score behaves at different probabilities, between 0 and 1.
 
-![Binary classification](https://i.imgur.com/Z5Rmy0V.png)
+![Binary classification](https://i.imgur.com/sMmIVfv.png)
 
 The true positive rate is a measure of probability that a positive will be labelled correctly. The false positive is a measure of how often a negative instance will get labelled as positive and in vice versa. You can calculate them in a following way:
 
@@ -23,7 +23,7 @@ It's very simple to understand the result, the better the model the closer AUC g
 
 
 
-![ROC Plot](https://i.imgur.com/Ih6Hza0.png)
+![ROC Plot](https://i.imgur.com/F99Ckdf.png)
 
 ---
 
