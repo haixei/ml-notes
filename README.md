@@ -4,8 +4,8 @@ In this repository I save notes on different topics that I've learned about in t
 _Note: The repository is updated every few days with exceptions._
 
 ## In making..
-- Data structures / Graph Theory
-- Data structures / Search Trees
+- Data structures / Linked Lists
+- Data structures / Red-black Tree
 - Data structures / Hash Tables
 - Models / Gradient Boosting
 - Neural Networks / CNN
