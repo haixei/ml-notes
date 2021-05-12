@@ -6,7 +6,7 @@ _Note: The repository is updated every few days with exceptions._
 ## In making..
 - Data structures / Linked Lists
 - Data structures / Red-black Tree
-- Data structures / Hash Tables
 - Models / Gradient Boosting
-- Neural Networks / CNN
-- Math / Ordinary Differential Equation
+- ML / Overfitting & Underfitting
+- ML / Regularization with Lasso
+- Math / Differential Equations
