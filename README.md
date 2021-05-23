@@ -3,10 +3,32 @@ In this repository I save notes on different topics that I've learned about in t
 
 _Note: The repository is updated every few days with exceptions._
 
-## In making..
-- Data structures / Linked Lists
-- Data structures / Red-black Tree
-- Models / Gradient Boosting
-- ML / Overfitting & Underfitting
-- ML / Regularization with Lasso
-- Math / Differential Equations
+## Legend
+- Topics that already have been covered have links to the files
+- Notes under work have the ✍ icon next to them
+
+## Topics
+- [Machine Learning]()
+  - [Random Forest]()
+  - [AUC/ROC]()
+  - [MSE and RMSE]()
+  - Gradient Boosting ✍
+  - Overfitting & underfitting
+  - SVM
+ 
+<hr>
+
+- [Algorithms & Data Structures]()
+  - [Linked lists]()
+  - Red-black trees ✍
+  - Knapsack problem
+  - Graph theory
+
+<hr>
+
+- [Math & Statistics]()
+  - Probability Distributions
+  - Central Tendency
+  - Variability
+  - Differential equations
+
