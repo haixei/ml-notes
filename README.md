@@ -4,13 +4,6 @@ In this repository I save notes on different topics that I've learned about in t
 _Note: The repository is updated every few days with exceptions._
 
 
-## In making..
-- Data structures / Red-black Tree
-- Data structures / Graphs
-- Models / Gradient Boosting
-- ML & AI General / Keras Layers
-
-  
 
 ## Legend
 - Topics that already have been covered have links to the files
